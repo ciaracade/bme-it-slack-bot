@@ -1,3 +1,3 @@
 Univeristy of Michigan Biomedical Engineering IT Department Slack Bot
 =====================================================================
-A chat bot that integrates [TeamDyanmix](https://teamdynamix.com) with [Slack](https://slack.com) for Univerisy of Michigan's IT Department, using AI to assist on tickets.
+A chat bot that integrates [TeamDyanmix](https://teamdynamix.com) and OpenAI with [Slack](https://slack.com) for Univerisy of Michigan Biomedical Engineeeing's IT Department for ticket assistance.
