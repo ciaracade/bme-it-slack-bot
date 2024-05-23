@@ -17,6 +17,7 @@ venv/
 # Sensitive information
 config/secrets.py
 
+# Slack additions
 dist
 package
 .DS_Store
