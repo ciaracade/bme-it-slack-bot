@@ -1,0 +1,18 @@
+# Python bytecode files
+__pycache__/
+
+# Virtual environment directory
+venv/
+
+# Compiled Python files
+*.pyc
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Environment-specific files
+.env
+
+# Sensitive information
+config/secrets.py
